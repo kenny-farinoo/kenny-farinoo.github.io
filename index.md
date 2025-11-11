@@ -24,7 +24,11 @@ Este sitio presenta mi perfil técnico, algunos proyectos destacados y un poco d
 
 ## 🛰️ Proyectos personales
 | Proyecto          | Descripción breve                                      | Estado        |
-|-------------------|--------------------------------------------------------|---------------|
-| Sitio web personal| Creando mi sitio web personalizado con GitHub Pages   | 🔄 En progreso|
+|---------------------|--------------------------------------------------------|------------|
+| Fundamentos de programación  | Aprender a usar la lógica y estructuras básicas | ✅ Completado |
+| Git + GitHub  | Gestionar código, versiones y trabajo en equipo         | ✅ Completado |
+| Principios SOLID + Clean Code  | Refactorización y reestructuración del código     | ✅ Completado |
+| Patrones de Diseño  | Soluciones simples para problemas complejos    | 🔄 En progreso |
+
 
 
