@@ -1,3 +1,4 @@
+# Bienvenidos a mi sitio 🙌!
 
 Me presento, soy Kenny😄 un desarrollador web en formación. 
 Este sitio presenta mi perfil técnico, algunos proyectos destacados y un poco de todo !
@@ -15,7 +16,7 @@ Este sitio presenta mi perfil técnico, algunos proyectos destacados y un poco d
 
 ## ⚛️ Desarrollo personal
 
-| Proyecto            | Descripción breve                                      | Estado     |
+| Tema          | Descripción breve                                      | Estado     |
 |---------------------|--------------------------------------------------------|------------|
 | Fundamentos de programación  | Aprender a usar la lógica y estructuras básicas | ✅ Completado |
 | Git + GitHub  | Gestionar código, versiones y trabajo en equipo         | ✅ Completado |
@@ -23,7 +24,8 @@ Este sitio presenta mi perfil técnico, algunos proyectos destacados y un poco d
 | Patrones de Diseño  | Soluciones simples para problemas complejos    | 🔄 En progreso |
 
 
-
 ## 🛰️ Proyectos personales
 | Proyecto            | Descripción breve                                      | Estado     |
-| Sitio web personal | Creando mi sitio web personalizado con GitHub Pages | 🔄 En progreso |
+|---------------------|--------------------------------------------------------|------------|
+| Sitio web personal   | Creando mi sitio web personalizado con GitHub Pages | 🔄 En progreso |
+
